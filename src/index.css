@@ -6,7 +6,7 @@
 }
 
 .site-nav{
-    background-color: #007436;
+    background-color: #a3f8cb;
     color: white;
     display: flex;
     flex: 1 1 auto;
@@ -208,3 +208,226 @@ img {
     justify-content: center;
     
 }
+
+.content-with-sidebar1 {
+    display: flex;
+    padding: 20px 200px;
+}
+
+.content-with-sidebar2 {
+    padding-top: 30px;
+    margin-top: 30px;
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+
+
+.content-with-sidebar h2.title {
+    display: inline;
+    float: left;
+    width: 93.75%;
+    margin-left: 3.125%;
+    margin-right: 3.125%;
+}
+
+.callout h3 {
+    font-weight: 500;
+    font-style: normal;
+    font-size: .875em;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+    color: #997e11;
+    margin-bottom: 7px;
+}
+
+#faqs {
+    display: inline;
+    float: left;
+    width: 93.75%;
+    margin-left: 3.125%;
+    margin-right: 3.125%;
+}
+
+#faqs h4 {
+    margin-bottom: 4px;
+    font-weight: 700;
+    font-size: 1em;
+    line-height: 1.25em;
+}
+
+.subsection h3 {
+    font-weight: 500;
+    font-style: normal;
+    margin-bottom: 12px;
+    font-size: .9375em;
+    line-height: 1.5em;
+    text-transform: uppercase;
+    letter-spacing: .1em;
+}
+
+.subsection h3, th {
+    color: #997e11;
+}
+
+.callout p, .errors p, .errors li {
+    font-size: .875em;
+    line-height: 1.5em;
+}
+
+h4 {
+    display: block;
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+
+aside .subsection a {
+    text-decoration: none;
+}
+
+aside .subsection a {
+    text-decoration: none;
+}
+
+#faqs {
+    display: inline;
+    float: left;
+    width: 93.75%;
+    margin-left: 3.125%;
+    margin-right: 3.125%; 
+}
+
+.divider-top, .divider-top-thick {
+    padding-top: 30px;
+    margin-top: 30px;
+    border-top-style: solid;
+    border-top-width: 1px;
+}
+
+#main2{
+    display: flex;
+    width: 640px;
+    margin: 0 auto 48px;
+    
+}
+
+aside {
+    display: inline;
+    width: 220px;
+    float: right;
+    border-left: solid 1px #bbbbbb;
+    padding-left: 20px;
+    
+}
+
+.book-thumb img {
+    vertical-align: middle;
+    width: 100%;
+}
+
+.about-person-avatar {
+    height: 50px;
+}
+
+.about-person-info {
+    display: flex;
+    flex-direction: column;
+}
+
+
+h2.title2 {
+    width: 380px;
+}
+
+.about-person-title {
+    display: flexbox;
+    font-size: .875em;
+    font-style: italic;
+    width: 80%;
+    color: #998f52;
+}
+
+#main3{
+    display: flex;
+    width: 640px;
+    margin: 0 auto 48px;
+    
+}
+
+.about-text p {
+    font-size: 1em;
+    margin-bottom: 16px;
+    font-size: 1.125em;
+    line-height: 1.5em;
+}
+
+.about-main-people {
+    display: flex;
+    zoom: 1;
+    margin-bottom: -30px;
+}
+
+.main4{
+    display: flex;
+    width: 640px;
+    margin: 0 auto 48px;
+    
+}
+
+.about-people {
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+    width: 100%;
+}
+
+* {
+    list-style-type: none;
+}
+
+#press-room{
+   flex-basis: 80%;
+}
+
+.site-footer-grid{
+ flex-wrap: wrap;
+}
+
+h2.title {
+    margin-bottom: 24px;
+    font-size: 5em;
+    letter-spacing: 1px;
+}
+
+.press-list{
+    border: 0;
+    font: inherit;
+    font-size: 100%;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+
+#press-room{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.aside2 {
+    display: inline;
+    width: 220px;
+    float: right;
+    border-left: solid 1px #bbbbbb;
+    padding-left: 20px;
+    
+}
+
+.divider-bottom, .divider-bottom-thick {
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+}
+
